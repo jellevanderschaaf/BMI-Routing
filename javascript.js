@@ -4,11 +4,11 @@ const bodyParser = require("body-parser");
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get("/", function(req, res) {
+app.get("/index.html", function(req, res) {
     res.sendFile(__dirname + "/index.html");
 });
 
-app.post("/", function(req, res) {
+app.post("/index.html", function(req, res) {
 
     var weight = Number(req.body.weight);
     var height = Number(req.body.height);
