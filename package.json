@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jellevanderschaaf/BMI-Routing/issues"
   },
-  "homepage": "https://github.com/jellevanderschaaf/BMI-Routing#readme"
+  "homepage": "https://github.com/jellevanderschaaf/BMI-Routing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
