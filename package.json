@@ -1,0 +1,19 @@
+{
+  "name": "bmi-routing",
+  "version": "1.0.0",
+  "description": "Making a humble beginning with Node.js and Express.js by creating a BMI-calculator on a local server.",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellevanderschaaf/BMI-Routing.git"
+  },
+  "author": "Jelle van der Schaaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellevanderschaaf/BMI-Routing/issues"
+  },
+  "homepage": "https://github.com/jellevanderschaaf/BMI-Routing#readme"
+}
